@@ -13,17 +13,18 @@
 
 ## 📺 Servicios Disponibles
 
-| Plataforma | Características |
-| :--- | :--- |
-| **Netflix** | Perfil privado, calidad 4K, PIN propio |
-| **Disney+** | Acceso completo + Deportes en vivo |
-| **Max** | Películas, series y eventos especiales |
-| **Prime Video** | Cine premium y envíos |
-| **Spotify** | Música sin anuncios |
+| Servicio | Plataforma | Pantallas Disponibles | Precio | Características |
+| :---: | :--- | :---: | :---: | :--- |
+| <img src="https://cdn.simpleicons.org/netflix/E50914" width="30"/> | **Netflix tradicional presenta bloqueo de hogar** | 1 Pantalla / Completa | **$3.50** | Perfil privado, calidad 4K, PIN propio |
+| <img src="https://cdn.simpleicons.org/netflix/E50914" width="30"/> | **Netflix Perfil Único sin bloqueo de hogar** | 1 Pantalla / Completa | **$5.50** | Perfil privado, calidad 4K, PIN propio |
+| <img src="https://cdn.simpleicons.org/disneyplus/00637C" width="30"/> | **Disney+** | 1 Pantalla / Completa | **$3.80** | Acceso completo + Deportes en vivo |
+| <img src="https://cdn.simpleicons.org/hbomax/000000" width="30"/> | **Max** | 1 Pantalla / Completa | **$1.80** | Películas, series y eventos especiales |
+| <img src="https://cdn.simpleicons.org/prime/00A8E1" width="30"/> | **Prime Video** | 1 Pantalla / Completa | **$2** | Cine premium y envíos |
+| <img src="https://cdn.simpleicons.org/spotify/1DB954" width="30"/> | **Spotify** | 1 Perfil / Familiar | **$4** | Música sin anuncios |
 
 ---
 
-## 📲 ¿Quieres contratar o consultar precios?
+## 📲 ¿Quieres contratar o consultar precios exactos? Tasa usdt
 
 ¡Escríbenos directamente y te atendemos al instante!
 
