@@ -45,7 +45,7 @@
 
 ¡Haz clic en el ícono del servicio que deseas arriba o escríbenos directamente!
 
-<a href="https://wa.me/584120000000" target="_blank">
+<a href="https://wa.me/584124075886" target="_blank">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp" />
 </a>
 
