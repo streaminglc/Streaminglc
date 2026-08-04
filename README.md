@@ -1,53 +1,180 @@
-# 🎬 ¡Bienvenido a StreamingLC! 🍿
-### *Tu entretenimiento 100% garantizado, estable y sin pausas*
+<div align="center">
+  <h1>🎬 StreamingLC — Catálogo Oficial 🍿</h1>
+  <p><i>Entretenimiento 100% garantizado, estable y sin pausas</i></p>
+</div>
+
+<br>
+
+<div align="center">
+
+<!-- FILA 1: NETFLIX TRADICIONAL, NETFLIX PERFIL ÚNICO, DISNEY+ -->
+<table>
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/netflix/E50914" width="50" height="50" alt="Netflix"><br><br>
+      <b>Netflix Tradicional</b><br>
+      <sub>Perfil Privado 4K • PIN Propio</sub><br><br>
+      <mark>&nbsp;<b>$3.50</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 5 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Netflix%20Tradicional">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/netflix/E50914" width="50" height="50" alt="Netflix Sin Bloqueo"><br><br>
+      <b>Netflix Perfil Único</b><br>
+      <sub>Sin Bloqueo de Hogar • 4K</sub><br><br>
+      <mark>&nbsp;<b>$5.50</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 3 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Netflix%20Perfil%20Único">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/disneyplus/00637C" width="50" height="50" alt="Disney+"><br><br>
+      <b>Disney+ Premium</b><br>
+      <sub>Películas, Series y Deportes ESPN</sub><br><br>
+      <mark>&nbsp;<b>$3.80</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 8 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Disney+">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+
+<!-- FILA 2: MAX, PRIME VIDEO, SPOTIFY -->
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/hbomax/000000" width="50" height="50" alt="Max"><br><br>
+      <b>Max (HBO)</b><br>
+      <sub>Estrenos de Cine y Series HBO</sub><br><br>
+      <mark>&nbsp;<b>$1.80</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 10 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Max">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/prime/00A8E1" width="50" height="50" alt="Prime Video"><br><br>
+      <b>Prime Video</b><br>
+      <sub>Catálogo Amazon Originals</sub><br><br>
+      <mark>&nbsp;<b>$2.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 6 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Prime%20Video">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/spotify/1DB954" width="50" height="50" alt="Spotify"><br><br>
+      <b>Spotify Premium</b><br>
+      <sub>Música HQ Sin Anuncios</sub><br><br>
+      <mark>&nbsp;<b>$4.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 4 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Spotify">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+
+<!-- FILA 3: FLUJOTV, CRUNCHYROLL, VIX+ -->
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="flujotv.png" width="50" height="50" alt="FlujoTV"><br><br>
+      <b>FlujoTV / Magis</b><br>
+      <sub>TV en Vivo, Deportes y Cine</sub><br><br>
+      <mark>&nbsp;<b>$4.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 5 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20FlujoTV">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/crunchyroll/FF6600" width="50" height="50" alt="Crunchyroll"><br><br>
+      <b>Crunchyroll</b><br>
+      <sub>El mejor Anime en HD</sub><br><br>
+      <mark>&nbsp;<b>$2.50</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 5 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Crunchyroll">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/vlc/FF8800" width="50" height="50" alt="ViX+"><br><br>
+      <b>ViX Premium</b><br>
+      <sub>Novelas, Series y Fútbol</sub><br><br>
+      <mark>&nbsp;<b>$2.50</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 5 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20ViX+">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+
+<!-- FILA 4: YOUTUBE, CANVA, CAPCUT -->
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="50" height="50" alt="YouTube"><br><br>
+      <b>YouTube Premium</b><br>
+      <sub>Sin Anuncios + YT Music</sub><br><br>
+      <mark>&nbsp;<b>$3.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 8 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20YouTube%20Premium">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/canva/00C4CC" width="50" height="50" alt="Canva"><br><br>
+      <b>Canva Pro</b><br>
+      <sub>Kits de marca y Quita fondos</sub><br><br>
+      <mark>&nbsp;<b>$2.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 10 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Canva%20Pro">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <br>
+      <img src="https://cdn.simpleicons.org/capcut/000000" width="50" height="50" alt="CapCut"><br><br>
+      <b>CapCut Pro</b><br>
+      <sub>Edición de Video Avanzada</sub><br><br>
+      <mark>&nbsp;<b>$3.00</b> / mes&nbsp;</mark><br><br>
+      <code>🟢 5 Disponibles</code><br><br>
+      <a href="https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20CapCut%20Pro">
+        <img src="https://img.shields.io/badge/Comprar-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+      </a>
+      <br><br>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
-## 🚀 ¿Por qué elegirnos?
-* 🔒 **Garantía Total:** Cuentas estables durante todo tu periodo de suscripción.
-* ⚡ **Activación Inmediata:** Te configuramos la pantalla en solo 5 minutos.
-* 💳 **Mismo Perfil:** Mantén tu historial, lista de favoritos y PIN de seguridad.
-* 🎯 **Atención Directa:** Soporte activo todos los días.
-
----
-
-## 📺 Servicios Disponibles
-
-| Comprar | Plataforma | Stock | Precio | Métodos de Pago | Descripción del Producto |
-| :---: | :--- | :---: | :---: | :---: | :--- |
-| [<img src="https://cdn.simpleicons.org/netflix/E50914" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Netflix%20Tradicional) | **Netflix Tradicional** | 5 disp. | **$3.50** | Pago Móvil / Zinli / Binance / Zelle | Perfil privado 4K, PIN propio (sujeto a bloqueo de hogar). |
-| [<img src="https://cdn.simpleicons.org/netflix/E50914" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Netflix%20Perfil%20Único) | **Netflix Perfil Único** | 3 disp. | **$5.50** | Pago Móvil / Zinli / Binance / Zelle | Perfil privado 4K, PIN propio sin ningún tipo de bloqueo. |
-| [<img src="https://cdn.simpleicons.org/disneyplus/00637C" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Disney+) | **Disney+** | 8 disp. | **$3.80** | Pago Móvil / Zinli / Binance / Zelle | Series, películas Disney, Marvel, Star Wars y deportes en vivo (ESPN). |
-| [<img src="https://cdn.simpleicons.org/hbomax/000000" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Max) | **Max (HBO)** | 10 disp. | **$1.80** | Pago Móvil / Zinli / Binance / Zelle | Estrenos de cine, series exclusivas de HBO y eventos en vivo. |
-| [<img src="https://cdn.simpleicons.org/prime/00A8E1" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Prime%20Video) | **Prime Video** | 6 disp. | **$2.00** | Pago Móvil / Zinli / Binance / Zelle | Extenso catálogo de películas, series Amazon Originals y canales. |
-| [<img src="https://cdn.simpleicons.org/spotify/1DB954" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Spotify) | **Spotify** | 4 disp. | **$4.00** | Pago Móvil / Zinli / Binance / Zelle | Música y podcasts en alta calidad sin interrupciones ni anuncios. |
-| [<img src="https://cdn.simpleicons.org/paramountplus/0064FF" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Paramount+) | **Paramount+** | 5 disp. | **$2.00** | Pago Móvil / Zinli / Binance / Zelle | Cine de Hollywood, contenido infantil y eventos deportivos. |
-| [<img src="https://cdn.simpleicons.org/crunchyroll/FF6600" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Crunchyroll) | **Crunchyroll** | 5 disp. | **$2.50** | Pago Móvil / Zinli / Binance / Zelle | El catálogo más grande de anime en HD y simulcasts desde Japón. |
-| [<img src="https://cdn.simpleicons.org/vlc/FF8800" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20ViX+) | **ViX+** | 5 disp. | **$2.50** | Pago Móvil / Zinli / Binance / Zelle | Novelas, series en español y partidos de fútbol en vivo. |
-| [<img src="flujotv.png" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20FlujoTV) | **FlujoTV / Magis** | 5 disp. | **$4.00** | Pago Móvil / Zinli / Binance / Zelle | Canales de TV en vivo, deportes, cine y series en una sola app. |
-| [<img src="https://cdn.simpleicons.org/canva/00C4CC" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Canva%20Pro) | **Canva Pro** | 10 disp. | **$2.00** | Pago Móvil / Zinli / Binance / Zelle | Acceso a kits de marca, quita fondos e inteligencia artificial. |
-| [<img src="https://cdn.simpleicons.org/capcut/000000" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20CapCut%20Pro) | **CapCut Pro** | 5 disp. | **$3.00** | Pago Móvil / Zinli / Binance / Zelle | Herramientas de edición de video avanzadas, filtros y efectos Pro. |
-| [<img src="https://cdn.simpleicons.org/wireguard/88171A" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Tuxler%20VPN) | **Tuxler VPN** | 5 disp. | **$3.50** | Pago Móvil / Zinli / Binance / Zelle | Navegación 100% residencial segura y cambio de ubicación sin límites. |
-| [<img src="https://cdn.simpleicons.org/apple/000000" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20Apple%20TV+) | **Apple TV+** | 5 disp. | **$2.50** | Pago Móvil / Zinli / Binance / Zelle | Series y películas originales de Apple en máxima resolución 4K. |
-| [<img src="https://cdn.simpleicons.org/youtube/FF0000" width="28"/>](https://wa.me/584124075886?text=Hola,%20quiero%20comprar%20YouTube%20Premium) | **YouTube Premium** | 8 disp. | **$3.00** | Pago Móvil / Zinli / Binance / Zelle | Videos sin anuncios, descarga para ver offline y YouTube Music. |
-
----
-
-## 💳 Métodos de Pago Aceptados
+### 💳 Métodos de Pago
 * 🇻🇪 **Pago Móvil** (Tasa BCV / USDT)
 * 💳 **Zinli**
 * 🟡 **Binance Pay**
 * 🏦 **Zelle**
-
----
-
-## 📲 ¿Quieres contratar o consultar?
-
-¡Haz clic en el ícono del servicio que deseas arriba o escríbenos directamente!
-
-<a href="https://wa.me/584124075886" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Contactar por WhatsApp" />
-</a>
-
----
-> 💡 *Nota: Al hacer clic en el ícono de cualquier plataforma, se abrirá tu WhatsApp con un mensaje listo para pedir esa cuenta.*
